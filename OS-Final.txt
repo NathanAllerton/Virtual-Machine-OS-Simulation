@@ -1,0 +1,1 @@
+./Debug/src_cpu.cpp.o ./Debug/src_disk.cpp.o ./Debug/src_memory.cpp.o ./Debug/src_metrics.cpp.o ./Debug/src_utils.cpp.o ./Debug/src_scheduler.cpp.o ./Debug/src_memory_manager.cpp.o ./Debug/src_main.cpp.o ./Debug/src_loader.cpp.o   
