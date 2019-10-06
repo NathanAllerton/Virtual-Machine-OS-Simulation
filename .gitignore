@@ -1,0 +1,27 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.idea
+/.vs/OS-Final/v15
+/.vs/ProjectSettings.json
+/.vs/slnx.sqlite
+
+#codelite
+
+Debug
+Release
+Release_gcc_unicode
+DebugUnicode
+*.session
+*.tags
+*.d
+*.o
+*.pyc
+bin
+bin/ofMaker
+lib
+*.mk
+*.workspace.session
+*.project
+OS-Final.txt
