@@ -2,6 +2,8 @@
 
 Semester Long Project for Operating Systems class.
 
+We created CVM++ OS
+
 <p align="center">
   <img src="https://user-images.githubusercontent.com/11577850/66277531-dd191a80-e86d-11e9-94b3-f12929f2786e.gif">
   <br>
