@@ -4,8 +4,8 @@ Semester Long Project for Operating Systems class.
 
 Created a VOS and tested metrics for different CPU scheduling algorithms
 Simulated a CPU, disk, memory, memory manager, scheduler, and loader
-Program runs through a datafile containing several addressing for different jobs
-Determined which scheduler was superior in sifting through data
+Program runs through a datafile containing several addresses for different jobs
+that determined which scheduler was superior in sifting through data.
 
 
 <p align="center">
