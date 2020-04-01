@@ -13,7 +13,7 @@ We analyzed 3 different scheduling algorithms for the project:
 - SJF
 
 ### Reports, Charts, Graphs & Presentation
-- [Phase 1 Progress Report] (https://github.com/NawalJAhmed/Virtual-Machine-OS-Simulation/blob/master/Reports/OS%20Phase%201%20Progress%20Report.pdf)
+- [Phase 1 Progress Report](https://github.com/NawalJAhmed/Virtual-Machine-OS-Simulation/blob/master/Reports/OS%20Phase%201%20Progress%20Report.pdf)
 - [Phase 1 Full Report](https://github.com/NawalJAhmed/Virtual-Machine-OS-Simulation/blob/master/Reports/OS%20Phase%201%20Full%20Report.pdf)
 - [Final Report](https://github.com/NawalJAhmed/Virtual-Machine-OS-Simulation/blob/master/Reports/OS%20Final%20Report.pdf)
 - [Data Charts and Graphs](https://github.com/NawalJAhmed/Virtual-Machine-OS-Simulation/blob/master/Reports/OS%20Data%20Charts%20and%20Graphs.xlsx)
