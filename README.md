@@ -12,6 +12,13 @@ We analyzed 3 different scheduling algorithms for the project:
 - Priority
 - SJF
 
+### Reports, Charts, Graphs & Presentation
+- [Phase 1 Progress Report]()
+- [Phase 1 Full Report]()
+- [Final Report]()
+- [Data Charts and Graphs]()
+- [Presentation]()
+
 <p align="center">
   <img src="https://user-images.githubusercontent.com/11577850/66277531-dd191a80-e86d-11e9-94b3-f12929f2786e.gif">
   <br>
